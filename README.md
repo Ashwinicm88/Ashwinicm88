@@ -1,5 +1,5 @@
 ### Hi there 👋
-![logo](https://github.com/Ashwinicm88/Ashwinicm88/blob/main/Profile_Banner.jpg)
+![logo](https://github.com/Ashwinicm88/Ashwinicm88/blob/main/Prof_Banner.jpg)
 <h1 align="center">Hi 👋, I'm Ashwini Vangari</h1>
 <h3 align="center">A passionate Software Developer.</h3>
 
