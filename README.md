@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ashwini Vangari</h1>
 <h3 align="center">A passionate Software Developer.</h3>
 
-<img align="right" alt="coding" width="300" src="https://github.com/Ashwinicm88/Ashwinicm88/blob/main/Profile.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwinicm88&label=Profile%20views&color=0e75b6&style=flat" alt="ashwinicm88" /> </p>
 
